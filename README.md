@@ -1,4 +1,4 @@
-# The-head-of-ArchFable-a-single-player-role-playing-video-game
+# The-head-of-ArchFable-a-single-player-role-playing-video-game- Version 2
 The head of ArchFable, a single-player role-playing video game to which we design a prototype for their new title, ArchLegends. The game is set in a time where a demon named Lionfang and his lieutenants have taken over the kingdom of Thunderforge. The purpose of the game is to allow the user to start as a hero and then defeat Lionfang.
 
 We have to implement some more functionalities in the game thant the version 1, ArchLegends. They want the hero of the
